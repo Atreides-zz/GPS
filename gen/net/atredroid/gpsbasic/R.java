@@ -15,6 +15,7 @@ public final class R {
     }
     public static final class id {
         public static final int id_altitude=0x7f050004;
+        public static final int id_button_gps=0x7f050007;
         public static final int id_latitude=0x7f050006;
         public static final int id_longitude=0x7f050005;
         public static final int relativeLayout1=0x7f050000;
@@ -27,9 +28,14 @@ public final class R {
     }
     public static final class string {
         public static final int app_name=0x7f040000;
+        public static final int button_gps_off=0x7f040009;
+        public static final int button_gps_on=0x7f040008;
         public static final int label_altitude=0x7f040003;
         public static final int label_latitude=0x7f040001;
         public static final int label_longitude=0x7f040002;
         public static final int label_zero=0x7f040004;
+        public static final int toast_disable=0x7f040006;
+        public static final int toast_enable=0x7f040007;
+        public static final int toast_update=0x7f040005;
     }
 }

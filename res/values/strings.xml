@@ -5,4 +5,9 @@
     <string name="label_longitude">Longitude</string>
     <string name="label_altitude">Altitude</string>
     <string name="label_zero">0.0</string>
+    <string name="toast_update">Position Updated</string>
+    <string name="toast_disable">GPS is Disabled</string>
+    <string name="toast_enable">GPS is Enabled</string>
+    <string name="button_gps_on">Turn GPS On</string>
+    <string name="button_gps_off">Turn GPS Off</string>
 </resources>

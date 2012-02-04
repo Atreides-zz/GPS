@@ -62,4 +62,13 @@
         android:text="@string/label_zero"
         android:textAppearance="?android:attr/textAppearanceMedium" />
 
+    <Button
+        android:id="@+id/id_button_gps"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView3"
+        android:layout_below="@+id/textView3"
+        android:layout_marginTop="19dp"
+        android:text="@string/button_gps_on" />
+
 </RelativeLayout>

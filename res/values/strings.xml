@@ -10,4 +10,11 @@
     <string name="toast_enable">GPS is Enabled</string>
     <string name="button_gps_on">Turn GPS On</string>
     <string name="button_gps_off">Turn GPS Off</string>
+    <string name="label_num_sat">Nº Satellites</string>
+    <string name="label_bearing">Bearing</string>
+    <string name="label_speed">Speed</string>
+    <string name="label_accuracy">Accuracy</string>
+    <string name="label_not_aval">Not Available</string>
+    <string name="label_name">Provider</string>
+    <string name="label_status">Status</string>
 </resources>
